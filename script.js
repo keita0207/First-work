@@ -11,7 +11,7 @@ btn.addEventListener('click',addList)
 
 
 function addList(){
-    const k  = keita
+  
     const newLi = document.createElement('li');
     const newCheck = document.createElement('button');
     const newDelete = document.createElement('button');
